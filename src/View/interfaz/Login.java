@@ -37,7 +37,11 @@ public class Login extends javax.swing.JFrame {
     sdpijasdiopasjd
     asopduias
     */
-    */
+    
+    
+    /* Cambio de angelo
+    */ 
+    
     public Login() {
         
         initComponents();
